@@ -3,6 +3,15 @@ if (speed = 0){
 
 }
 
+
+var dt = delta_time / 1000000; 
+
+if (speed > -1)
+{
+    speed -= 0.6 * dt;
+}
+
+
 if (x< -10)
 {
 	instance_destroy();

@@ -20,6 +20,7 @@
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"PixelifySans[wght].ttf","CopyToMask":-1,"filePath":"datafiles","name":"PixelifySans[wght].ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"PressStart2P-Regular.ttf","CopyToMask":-1,"filePath":"datafiles","name":"PressStart2P-Regular.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -29,6 +30,7 @@
   "name":"Blank Pixel Game1",
   "resources":[
     {"id":{"name":"engine","path":"objects/engine/engine.yy",},},
+    {"id":{"name":"Highscore","path":"objects/Highscore/Highscore.yy",},},
     {"id":{"name":"obj_Ground","path":"objects/obj_Ground/obj_Ground.yy",},},
     {"id":{"name":"obj_leave","path":"objects/obj_leave/obj_leave.yy",},},
     {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},},

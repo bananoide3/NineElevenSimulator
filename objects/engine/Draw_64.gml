@@ -3,8 +3,17 @@
 if(room== new_york){
 
 
-draw_text(3, 3, global.points);
+//draw_text(10, 10, global.points);
+   draw_set_halign(fa_left);
+    draw_set_valign(fa_top);
 
+    draw_text_transformed(
+        display_get_gui_width()/12,
+        display_get_gui_height()/16,
+        global.points,
+        1, 1,
+        0
+    );
 }
 /*
 if(room== W){

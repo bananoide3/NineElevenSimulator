@@ -1,5 +1,5 @@
 	
-new_font = font_add("PixelifySans[wght].ttf", 24, true, true, 32, 128);
+new_font = font_add("PressStart2P-Regular.ttf", 24, true, true, 32, 128);
 
 draw_set_font(new_font);
 font_enable_sdf(new_font, true);
