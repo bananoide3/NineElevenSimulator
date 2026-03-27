@@ -30,7 +30,6 @@
   "name":"Blank Pixel Game1",
   "resources":[
     {"id":{"name":"engine","path":"objects/engine/engine.yy",},},
-    {"id":{"name":"Highscore","path":"objects/Highscore/Highscore.yy",},},
     {"id":{"name":"obj_Ground","path":"objects/obj_Ground/obj_Ground.yy",},},
     {"id":{"name":"obj_leave","path":"objects/obj_leave/obj_leave.yy",},},
     {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},},
@@ -48,6 +47,7 @@
     {"id":{"name":"mouse_click","path":"sounds/mouse_click/mouse_click.yy",},},
     {"id":{"name":"vineboom","path":"sounds/vineboom/vineboom.yy",},},
     {"id":{"name":"EXIT","path":"sprites/EXIT/EXIT.yy",},},
+    {"id":{"name":"HIGHSCORES","path":"sprites/HIGHSCORES/HIGHSCORES.yy",},},
     {"id":{"name":"play_button","path":"sprites/play_button/play_button.yy",},},
     {"id":{"name":"player_score_1","path":"sprites/player_score_1/player_score_1.yy",},},
     {"id":{"name":"player_score","path":"sprites/player_score/player_score.yy",},},
@@ -55,6 +55,7 @@
     {"id":{"name":"replay_button","path":"sprites/replay_button/replay_button.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
+    {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},

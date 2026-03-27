@@ -43,7 +43,7 @@ if (room == W || room == L)
         display_get_gui_width()/2,
         display_get_gui_height()/2,
         global.points,
-        4, 4,
+        1, 1,
         0
     );
 }

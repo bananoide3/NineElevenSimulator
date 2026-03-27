@@ -8,3 +8,4 @@ font_enable_sdf(new_font, true);
 if(room == new_york){
 global.points = 0;
 }
+
